@@ -1,33 +1,29 @@
-# GetLean Gym Website
-This is the Bano Qabil 2.0 Web Development-1 Final Project - GetLean Gym Website.
+# Food.Stoppp (Resturant Website)
+This is the Bano Qabil 2.0 Web Development-1 Final Project - Food.Stoppp (Resturant Website)
 
 # Description
-This website serves as the online platform for GetLean Gym, offering information about the gym, its facilities, classes, membership options, and more. Users can learn about the gym's offerings, register for memberships, and contact the gym's team for inquiries.
+Welcome to Food.Stoppp, where flavor meets innovation! Dive into a culinary journey like no other with our eclectic menu crafted to tantalize your taste buds. From sizzling steaks to fresh seafood, each dish is a masterpiece prepared with passion and expertise. Join us and experience dining redefined. Bon appétit!
 
 # Contributors
-Talha Shahzad
-Muhammad Saad Bin Khalid
-Muhammad Hassan
-Technologies Used
-HTML
-CSS
-JavaScript
-Bootstrap
-AOS Animation Library
-Installation
+1) Sharib Wasi
+2) Shahryar Waseem
+3) Huzaifa Yaseen
+
+# Technologies Used
+1) HTML
+2) CSS
+3) JavaScript
+4) Bootstrap
+5) Tailwind
+6) AOS Animation Library
+
+# Installation
 No installation is required to access the website. Simply visit the URL of the website to explore its features.
 
-Usage
-Navigate through the different sections using the navigation menu.
-Learn about the gym, its facilities, classes, and membership options.
-Register for memberships using the registration form.
-Contact the gym's team for any inquiries or assistance.
-License
-This project is licensed under the MIT License.
 
-Contact
+# Contact
 For any inquiries or support, please contact:
 
-Talha Shahzad: talha.shahzadshaikh@gmail.com
-Muhammad Saad Bin Khalid: saadbinkhalid1895@gmail.com
-Muhammad Hassan: raufhassan84@gmail.com
+1) Sharib Wasi: sharibwasi3@gmail.com
+2) Shahryar Waseem: sherrymerry20@gmail.com
+3) Huzaifa Yaseen: huzaifayaseen986@gmail.com
